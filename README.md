@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PamodiRanmal
+- 👋 Hi, I’m Pamodhi Ranmal Mendis
 - 👀 I’m interested in Python, Java, JavaScript, PHP, Full-Stack development, Data Scraping, Machine Learning and Deep Learning
 - 🌱 I’m currently learning Artificial Inteligence (MSc. in Computer Science with Artificial Intelligence (distance learning) - The University of York)
 - 💞️ I’m looking to collaborate on Python, Java, JavaScript and PHP Projects

@@ -11,6 +11,7 @@ I'm actively seeking collaboration opportunities in projects related to 🐍 Pyt
 I'm excited about the prospect of working together and bringing our ideas to life using cutting-edge technologies. Let's connect and embark on a transformative journey!
 
 Best regards,
+
 Ranmal Mendis
 
 <!---
